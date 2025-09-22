@@ -3,7 +3,7 @@
 
 # 👋 Welcome to My GitHub Profile!
 
-Hello! I'm **Musa Ayomide**, a passionate **Systems Engineer ⚙️** with a growing focus on **Blockchain Security**, **Smart Contract Development**, and **Cryptography**. I’m currently pursuing my **Master of Science (M.Sc) in Systems Engineering**, and working hard every day to become a better developer, researcher, and open-source contributor.
+Hello! I'm **Musa Ayomide**, a passionate **Systems Engineer ⚙️** with a growing focus on **Blockchain Security**, **Smart Contract Development** and their applications to solve industrial problems. I’m currently pursuing my **Master of Science (M.Sc) in Systems Engineering**, and working hard every day to become a better developer, tester and researcher.
 
 This README gives you an overview of who I am, what I do, and what I'm learning. Feel free to connect or explore my work!
 
@@ -21,7 +21,7 @@ This README gives you an overview of who I am, what I do, and what I'm learning.
 ## 🧠 About Me
 
 - I’m deeply interested in how systems interact at a foundational level—especially in the blockchain space.  
-- As a self-taught **Smart Contract Developer** and **Security Analyst**, I spend most of my time building secure decentralized applications (dApps), auditing smart contracts, and experimenting with tools like **Vyper**, **Solidity**, and frameworks like **Moccasin** **Foundry** and **Titanoboa**.
+- As a self-taught **Smart Contract Developer** and **Security Analyst**, I spend most of my time building and auditing smart contracts, and experimenting with tools like **Vyper**, **Solidity**, and frameworks like **Moccasin** **Foundry** and **Titanoboa**, to know the limits of the determinsitic system.
 
 My goal is to contribute meaningfully to the Web3 ecosystem, build tools that help security researchers, and eventually win a hackathon with a novel idea!
 
@@ -106,15 +106,12 @@ These programs were crucial in shaping my journey into secure smart contract dev
 ## 📦 Projects & Contributions (Coming Soon!)
 
 I'm actively working on personal projects related to:
-- Smart contract security analysis
-- Building custom tools for static/dynamic analysis
-- Exploring formal verification in Vyper
-- Contributing to open-source blockchain projects
+- Modeling of real life systems with smart contracts
+- Building custom tools and redefining how we see EVM
+- Contributing to discussions and open-source blockchain projects
 
 Stay tuned for updates here or check out my [GitHub repositories](https://github.com/Sir-Shaedy) directly!
 
 ---
 
 Thank you for visiting! 😊
-```
-```
