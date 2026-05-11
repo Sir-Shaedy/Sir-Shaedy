@@ -3,9 +3,7 @@
 
 # 👋 Welcome to My GitHub Profile!
 
-Hello! I'm **Musa Ayomide**, a passionate **Systems Engineer ⚙️** with a growing focus on **Blockchain Security**, **Smart Contract Development** and their applications to solve industrial problems. I’m currently pursuing my **Master of Science (M.Sc) in Systems Engineering**, and working hard every day to become a better developer, tester and researcher.
-
-This README gives you an overview of who I am, what I do, and what I'm learning. Feel free to connect or explore my work!
+I'm Ayomide, and I review and build stuff. If I find an issue, I fix it. Currently doing an M.Sc in Systems Engineering. Getting better at development, testing, and research every day. This README covers what I do and what I’m learning.
 
 ---
 
@@ -20,10 +18,8 @@ This README gives you an overview of who I am, what I do, and what I'm learning.
 
 ## 🧠 About Me
 
-- I’m deeply interested in how systems interact at a foundational level—especially in the blockchain space.  
-- As a self-taught **Smart Contract Developer** and **Security Analyst**, I spend most of my time building and auditing smart contracts, and experimenting with tools like **Vyper**, **Solidity**, and frameworks like **Moccasin** **Foundry** and **Titanoboa**, to know the limits of the determinsitic system.
-
-My goal is to contribute meaningfully to the Web3 ecosystem, build tools that help security researchers, and eventually win a hackathon with a novel idea!
+- I care about how systems work at the base level. I taught myself most of it by building tools and breaking down problems.
+- In web3 now. I’ll contribute where I can.
 
 ---
 
@@ -89,7 +85,7 @@ My goal is to contribute meaningfully to the Web3 ecosystem, build tools that he
 
 I’ve recently completed several hands-on certification courses through **[Cyfrin's Updraft Program](https://cyfrin.dev/)** — a leading platform for advanced smart contract security training. These certifications helped me deepen my understanding of blockchain development and security best practices using **Python-based Vyper** and **Solidity**.
 
-Here are some of the courses I’ve completed:
+Here are the courses I’ve completed. This is over a year ago. I’ve moved past this:
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <img src="https://github.com/user-attachments/assets/299d4df6-a321-4e92-aaa3-7a436e691e44" alt="blockchain-basics-completed" width="250"/>
@@ -105,10 +101,7 @@ These programs were crucial in shaping my journey into secure smart contract dev
 
 ## 📦 Projects & Contributions (Coming Soon!)
 
-I'm actively working on personal projects related to:
-- Modeling of real life systems with smart contracts
-- Building custom tools and redefining how we see EVM
-- Contributing to discussions and open-source blockchain projects
+I'm currently building Meridius to push web3 security forward. We’ll see if it works.
 
 Stay tuned for updates here or check out my [GitHub repositories](https://github.com/Sir-Shaedy) directly!
 
